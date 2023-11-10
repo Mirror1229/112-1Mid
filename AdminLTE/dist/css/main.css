@@ -1,0 +1,12 @@
+#table #example1 tr:nth-child(2n)
+{
+    background-color:rgba(128,128,128,0.3);
+}
+#table #example1:hover
+{
+background-color: rgba(160, 160, 240, 0.3);
+}
+#table tr td
+{
+opacity: 0.1;
+}
